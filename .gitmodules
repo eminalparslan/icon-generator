@@ -1,0 +1,9 @@
+[submodule "diffusers"]
+	path = diffusers
+	url = https://github.com/huggingface/diffusers/
+[submodule "svgLearner"]
+	path = svgLearner
+	url = https://github.com/etaisella/svgLearner
+[submodule "diffvg"]
+	path = diffvg
+	url = https://github.com/BachiLi/diffvg
