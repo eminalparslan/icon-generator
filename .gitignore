@@ -1,2 +1,5 @@
 venv/
 output.png
+__pycache__/
+testing_outputs/
+material-design-icons/

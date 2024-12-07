@@ -1,23 +1,24 @@
 import os
+import torch
 import pydiffvg
 
-path = "./outlined/"
-# out_path = "./outlined_rasterized/"
-out_path = "./"
+from svg_utils import tensor2SVG, renderSVG, svg2path_tensors, decanonize_paths
+
+path = "./material-design-icons/svg/outlined/"
+out_path = "./outlined_rasterized/train/"
 
 for file in os.listdir(path):
     svg = os.path.join(path, file)
-    canvas_width, canvas_height, shapes, shape_groups = pydiffvg.svg_to_scene(svg)
 
-    scale_factor = 16
-    canvas_width *= scale_factor
-    canvas_height *= scale_factor
-    for shape in shapes:
-        shape.points[:, 0] *= scale_factor
-        shape.points[:, 1] *= scale_factor
+    path_tensors = svg2path_tensors(svg)
+    if path_tensors is None:
+        continue
 
-    render = pydiffvg.RenderFunction.apply
-    scene_args = pydiffvg.RenderFunction.serialize_scene(canvas_width, canvas_height, shapes, shape_groups)
-    img = render(canvas_width, canvas_height, 2, 2, 0, None, *scene_args)
-    pydiffvg.imwrite(img.cpu(), os.path.join(out_path, file[:-4] + ".png"), gamma=2.2)
-    break
+    curves = decanonize_paths(path_tensors)
+    image = renderSVG(*tensor2SVG(curves)).cpu()
+
+    rgb_image = torch.ones((image.shape[0], image.shape[1], 3)) * 255
+    mask = image[:, :, 3] > 0
+    rgb_image[mask] = image[mask][:, :3]
+
+    pydiffvg.imwrite(rgb_image, os.path.join(out_path, file[:-4] + ".png"), gamma=2.2)

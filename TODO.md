@@ -1,3 +1,0 @@
-- [x] Fine-tune a LoRA model on outlined rasterized SVGs
-- [ ] Train vectorizer model that outputs paths
-  - [ ] Filer out SVGs that use elements other than `path`
