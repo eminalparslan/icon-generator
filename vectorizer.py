@@ -9,6 +9,7 @@ from torch.utils.data import Dataset, DataLoader
 import numpy as np
 from tqdm import tqdm
 import pydiffvg
+from pytorch_msssim import MS_SSIM
 
 from svg_utils import tensor2SVG, renderSVG, svg2path_tensors, decanonize_paths
 
@@ -90,9 +91,11 @@ class BezierVectorizer(nn.Module):
             nn.LazyLinear(1024),
             nn.LazyBatchNorm1d(),
             nn.ReLU(),
+
             nn.Linear(1024, 2048),
             nn.LazyBatchNorm1d(),
             nn.ReLU(),
+
             nn.Linear(2048, MAX_CURVES * 8)
         )
 
@@ -141,14 +144,23 @@ def boxBlurfilter(in_channels: int=1, out_channels: int=1, kernel_size: int=7):
     box_filter.weight.requires_grad = False
     return box_filter
 
+def curve_continuity_loss(curves):
+    # Compute distance between end of one curve and start of next
+    start_points = curves[:, 1:, 0, :]  # Start points of all curves except first
+    end_points = curves[:, :-1, -1, :]  # End points of all curves except last
+    return F.mse_loss(start_points, end_points)
+
 def train_bezier_vectorizer(train_loader, val_loader, epochs=100):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     model = BezierVectorizer().to(device)
     # TUNE: lr and weight_decay
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-5)
+    # optimizer = torch.optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-5)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=0.001, weight_decay=1e-5)
 
-    alpha = 0.8
+    # ssim_loss = MS_SSIM(win_size=11, size_average=True, data_range=1.0, channel=1).to(device)
+
+    alpha = 0.2
 
     try:
         for epoch in tqdm(range(epochs)):
@@ -161,22 +173,22 @@ def train_bezier_vectorizer(train_loader, val_loader, epochs=100):
 
                 optimizer.zero_grad()
                 pred_curve_points = model(batch_images)
-
-                assert pred_curve_points.min() >= 0 and pred_curve_points.max() <= 1
-                assert batch_paths.min() >= 0 and batch_paths.max() <= 1
                 direct_loss = F.binary_cross_entropy(pred_curve_points, batch_paths)
 
-                # rendered_loader = DataLoader(
-                #     RenderBatch(pred_curve_points),
-                #     batch_size=batch_images.shape[0],
-                #     shuffle=False
-                # )
-                # rendered_images = next(iter(rendered_loader))
+                rendered_loader = DataLoader(
+                    RenderBatch(pred_curve_points),
+                    batch_size=batch_images.shape[0],
+                    shuffle=False
+                )
+                rendered_images = next(iter(rendered_loader))
 
-                # perceptual_loss = F.mse_loss(boxfilter(rendered_images), boxfilter(batch_images))
+                perceptual_loss = F.mse_loss(rendered_images, batch_images)
+                # perceptual_loss = 1 - ssim_loss(batch_images, rendered_images)
 
-                # loss = (1 - alpha) * direct_loss + alpha * perceptual_loss
-                loss = direct_loss
+                # cont_loss = curve_continuity_loss(pred_curve_points)
+
+                loss = (1 - alpha) * direct_loss + alpha * perceptual_loss #+ 0.2 * cont_loss
+                # loss = direct_loss
                 losses.append(loss.item())
 
                 loss.backward()
@@ -194,17 +206,20 @@ def train_bezier_vectorizer(train_loader, val_loader, epochs=100):
                 pred_curve_points = model(batch_images)
                 direct_loss = F.binary_cross_entropy(pred_curve_points, batch_paths)
 
-                # rendered_loader = DataLoader(
-                #     RenderBatch(pred_curve_points),
-                #     batch_size=batch_images.shape[0],
-                #     shuffle=False
-                # )
-                # rendered_images = next(iter(rendered_loader))
+                rendered_loader = DataLoader(
+                    RenderBatch(pred_curve_points),
+                    batch_size=batch_images.shape[0],
+                    shuffle=False
+                )
+                rendered_images = next(iter(rendered_loader))
 
-                # perceptual_loss = F.mse_loss(boxfilter(rendered_images), boxfilter(batch_images))
+                perceptual_loss = F.mse_loss(rendered_images, batch_images)
+                # perceptual_loss = 1 - ssim_loss(batch_images, rendered_images)
 
-                # loss = (1 - alpha) * direct_loss + alpha * perceptual_loss
-                loss = direct_loss
+                # cont_loss = curve_continuity_loss(pred_curve_points)
+
+                loss = (1 - alpha) * direct_loss + alpha * perceptual_loss #+ 0.2 * cont_loss
+                # loss = direct_loss
                 val_losses.append(loss.item())
 
         print(f"Validation loss: {np.mean(val_losses)}")
