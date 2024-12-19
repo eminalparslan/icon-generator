@@ -23,19 +23,15 @@ file_name,text
 2k_plus.png,2k plus
 2k.png,2k
 2mp.png,2mp
-30fps.png,30fps
 30fps_select.png,30fps select
 360.png,360
-3d_rotation.png,3d rotation
 3g_mobiledata.png,3g mobiledata
 3k_plus.png,3k plus
 3k.png,3k
 3mp.png,3mp
-3p.png,3p
 4g_mobiledata.png,4g mobiledata
 4g_plus_mobiledata.png,4g plus mobiledata
 4k_plus.png,4k plus
-4k.png,4k
 4mp.png,4mp
 5g.png,5g
 5k_plus.png,5k plus
@@ -43,7 +39,6 @@ file_name,text
 5mp.png,5mp
 60fps.png,60fps
 60fps_select.png,60fps select
-6_ft_apart.png,6 ft apart
 6k_plus.png,6k plus
 6k.png,6k
 6mp.png,6mp
@@ -57,25 +52,18 @@ file_name,text
 9k.png,9k
 9mp.png,9mp
 abc.png,abc
-access_alarm.png,access alarm
 access_alarms.png,access alarms
 accessibility_new.png,accessibility new
 accessibility.png,accessibility
-accessible_forward.png,accessible forward
-accessible.png,accessible
 access_time_filled.png,access time filled
 access_time.png,access time
 account_balance.png,account balance
-account_balance_wallet.png,account balance wallet
 account_box.png,account box
-account_circle.png,account circle
 account_tree.png,account tree
 ac_unit.png,ac unit
 adb.png,adb
-add_alarm.png,add alarm
 add_alert.png,add alert
 add_a_photo.png,add a photo
-add_box.png,add box
 add_business.png,add business
 add_card.png,add card
 add_chart.png,add chart
@@ -85,47 +73,26 @@ add_circle.png,add circle
 add_comment.png,add comment
 add_home.png,add home
 add_home_work.png,add home work
-add_ic_call.png,add ic call
 add_link.png,add link
-add_location_alt.png,add location alt
 add_location.png,add location
 add_moderator.png,add moderator
 add_photo_alternate.png,add photo alternate
 add.png,add
-add_reaction.png,add reaction
 add_road.png,add road
 add_shopping_cart.png,add shopping cart
-add_task.png,add task
-add_to_drive.png,add to drive
 add_to_home_screen.png,add to home screen
 add_to_photos.png,add to photos
-add_to_queue.png,add to queue
-adf_scanner.png,adf scanner
 adjust.png,adjust
-admin_panel_settings.png,admin panel settings
-ads_click.png,ads click
 ad_units.png,ad units
-agriculture.png,agriculture
-airline_seat_flat_angled.png,airline seat flat angled
-airline_seat_flat.png,airline seat flat
 airline_seat_individual_suite.png,airline seat individual suite
-airline_seat_legroom_extra.png,airline seat legroom extra
 airline_seat_legroom_normal.png,airline seat legroom normal
 airline_seat_legroom_reduced.png,airline seat legroom reduced
-airline_seat_recline_extra.png,airline seat recline extra
 airline_seat_recline_normal.png,airline seat recline normal
-airlines.png,airlines
 airline_stops.png,airline stops
 airplanemode_active.png,airplanemode active
 airplanemode_inactive.png,airplanemode inactive
-airplane_ticket.png,airplane ticket
 airplay.png,airplay
 air.png,air
-airport_shuttle.png,airport shuttle
-alarm_add.png,alarm add
-alarm_off.png,alarm off
-alarm_on.png,alarm on
-alarm.png,alarm
 album.png,album
 align_horizontal_center.png,align horizontal center
 align_horizontal_left.png,align horizontal left
@@ -134,22 +101,16 @@ align_vertical_bottom.png,align vertical bottom
 align_vertical_center.png,align vertical center
 align_vertical_top.png,align vertical top
 all_inbox.png,all inbox
-all_inclusive.png,all inclusive
 all_out.png,all out
 alternate_email.png,alternate email
-alt_route.png,alt route
 analytics.png,analytics
 anchor.png,anchor
-android.png,android
-animation.png,animation
 announcement.png,announcement
 aod.png,aod
 apartment.png,apartment
 api.png,api
-app_blocking.png,app blocking
 app_registration.png,app registration
 approval.png,approval
-app_settings_alt.png,app settings alt
 app_shortcut.png,app shortcut
 apps_outage.png,apps outage
 apps.png,apps
@@ -179,53 +140,26 @@ art_track.png,art track
 aspect_ratio.png,aspect ratio
 assessment.png,assessment
 assignment_ind.png,assignment ind
-assignment_late.png,assignment late
-assignment.png,assignment
-assignment_returned.png,assignment returned
-assignment_return.png,assignment return
-assignment_turned_in.png,assignment turned in
 assistant_direction.png,assistant direction
 assistant_photo.png,assistant photo
 assistant.png,assistant
-assist_walker.png,assist walker
 assured_workload.png,assured workload
 atm.png,atm
-attach_email.png,attach email
-attach_file.png,attach file
-attachment.png,attachment
 attach_money.png,attach money
-attractions.png,attractions
-attribution.png,attribution
-audio_file.png,audio file
 audiotrack.png,audiotrack
-auto_awesome_mosaic.png,auto awesome mosaic
 auto_awesome_motion.png,auto awesome motion
 auto_awesome.png,auto awesome
-auto_delete.png,auto delete
-auto_fix_high.png,auto fix high
-auto_fix_normal.png,auto fix normal
-auto_fix_off.png,auto fix off
 autofps_select.png,autofps select
 auto_graph.png,auto graph
-auto_mode.png,auto mode
-autorenew.png,autorenew
 auto_stories.png,auto stories
-av_timer.png,av timer
-baby_changing_station.png,baby changing station
-back_hand.png,back hand
 backpack.png,backpack
 backspace.png,backspace
-backup.png,backup
 backup_table.png,backup table
-badge.png,badge
-bakery_dining.png,bakery dining
 balance.png,balance
 balcony.png,balcony
 ballot.png,ballot
 bar_chart.png,bar chart
 batch_prediction.png,batch prediction
-bathroom.png,bathroom
-bathtub.png,bathtub
 battery_0_bar.png,battery 0 bar
 battery_1_bar.png,battery 1 bar
 battery_2_bar.png,battery 2 bar
@@ -238,33 +172,19 @@ battery_charging_full.png,battery charging full
 battery_full.png,battery full
 battery_saver.png,battery saver
 battery_std.png,battery std
-battery_unknown.png,battery unknown
-beach_access.png,beach access
 bed.png,bed
 bedroom_baby.png,bedroom baby
 bedroom_child.png,bedroom child
 bedroom_parent.png,bedroom parent
-bedtime_off.png,bedtime off
-bedtime.png,bedtime
 beenhere.png,beenhere
 bento.png,bento
-bike_scooter.png,bike scooter
-biotech.png,biotech
-blender.png,blender
-blind.png,blind
 blinds_closed.png,blinds closed
-blinds.png,blinds
-block.png,block
 bloodtype.png,bloodtype
-bluetooth_audio.png,bluetooth audio
 bluetooth_connected.png,bluetooth connected
 bluetooth_disabled.png,bluetooth disabled
-bluetooth_drive.png,bluetooth drive
 bluetooth.png,bluetooth
-bluetooth_searching.png,bluetooth searching
 blur_circular.png,blur circular
 blur_linear.png,blur linear
-blur_off.png,blur off
 blur_on.png,blur on
 bolt.png,bolt
 bookmark_added.png,bookmark added
@@ -278,7 +198,6 @@ book.png,book
 border_all.png,border all
 border_bottom.png,border bottom
 border_clear.png,border clear
-border_color.png,border color
 border_horizontal.png,border horizontal
 border_inner.png,border inner
 border_left.png,border left
@@ -289,51 +208,33 @@ border_top.png,border top
 border_vertical.png,border vertical
 boy.png,boy
 branding_watermark.png,branding watermark
-breakfast_dining.png,breakfast dining
 brightness_1.png,brightness 1
 brightness_2.png,brightness 2
-brightness_3.png,brightness 3
 brightness_4.png,brightness 4
 brightness_5.png,brightness 5
 brightness_6.png,brightness 6
-brightness_7.png,brightness 7
 brightness_auto.png,brightness auto
-brightness_high.png,brightness high
 brightness_low.png,brightness low
 brightness_medium.png,brightness medium
-broadcast_on_home.png,broadcast on home
-broadcast_on_personal.png,broadcast on personal
 broken_image.png,broken image
-browse_gallery.png,browse gallery
 browser_not_supported.png,browser not supported
 browser_updated.png,browser updated
-brunch_dining.png,brunch dining
-brush.png,brush
 bubble_chart.png,bubble chart
-bug_report.png,bug report
-build_circle.png,build circle
-build.png,build
 bungalow.png,bungalow
 burst_mode.png,burst mode
-bus_alert.png,bus alert
 business_center.png,business center
 business.png,business
 cabin.png,cabin
 cable.png,cable
-cached.png,cached
-cake.png,cake
 calculate.png,calculate
-calendar_month.png,calendar month
 calendar_today.png,calendar today
 calendar_view_day.png,calendar view day
 calendar_view_month.png,calendar view month
 calendar_view_week.png,calendar view week
-call_end.png,call end
 call_made.png,call made
 call_merge.png,call merge
 call_missed_outgoing.png,call missed outgoing
 call_missed.png,call missed
-call.png,call
 call_received.png,call received
 call_split.png,call split
 call_to_action.png,call to action
@@ -342,39 +243,23 @@ camera_enhance.png,camera enhance
 camera_front.png,camera front
 camera_indoor.png,camera indoor
 camera_outdoor.png,camera outdoor
-camera.png,camera
 camera_rear.png,camera rear
 camera_roll.png,camera roll
-cameraswitch.png,cameraswitch
 campaign.png,campaign
 cancel.png,cancel
 cancel_presentation.png,cancel presentation
 cancel_schedule_send.png,cancel schedule send
 candlestick_chart.png,candlestick chart
-car_crash.png,car crash
-card_giftcard.png,card giftcard
 card_membership.png,card membership
 card_travel.png,card travel
 carpenter.png,carpenter
-car_rental.png,car rental
-car_repair.png,car repair
 cases.png,cases
-casino.png,casino
-cast_connected.png,cast connected
-cast_for_education.png,cast for education
 castle.png,castle
-cast.png,cast
-catching_pokemon.png,catching pokemon
-category.png,category
-celebration.png,celebration
-cell_tower.png,cell tower
-cell_wifi.png,cell wifi
 center_focus_strong.png,center focus strong
 center_focus_weak.png,center focus weak
 chair_alt.png,chair alt
 chair.png,chair
 chalet.png,chalet
-change_circle.png,change circle
 change_history.png,change history
 charging_station.png,charging station
 chat_bubble_outline.png,chat bubble outline
@@ -387,64 +272,36 @@ check_circle.png,check circle
 checklist.png,checklist
 checklist_rtl.png,checklist rtl
 check.png,check
-checkroom.png,checkroom
 chevron_left.png,chevron left
 chevron_right.png,chevron right
-child_care.png,child care
-child_friendly.png,child friendly
 chrome_reader_mode.png,chrome reader mode
-church.png,church
 circle_notifications.png,circle notifications
 circle.png,circle
 class.png,class
-clean_hands.png,clean hands
 cleaning_services.png,cleaning services
 clear_all.png,clear all
 clear.png,clear
-closed_caption_disabled.png,closed caption disabled
-closed_caption_off.png,closed caption off
-closed_caption.png,closed caption
 close_fullscreen.png,close fullscreen
 close.png,close
-cloud_circle.png,cloud circle
-cloud_done.png,cloud done
-cloud_download.png,cloud download
-cloud_off.png,cloud off
-cloud.png,cloud
-cloud_queue.png,cloud queue
-cloud_sync.png,cloud sync
-cloud_upload.png,cloud upload
 co2.png,co2
 code_off.png,code off
 code.png,code
-coffee_maker.png,coffee maker
 coffee.png,coffee
 collections_bookmark.png,collections bookmark
 collections.png,collections
 colorize.png,colorize
-color_lens.png,color lens
 comment_bank.png,comment bank
 comment.png,comment
 comments_disabled.png,comments disabled
-commit.png,commit
 commute.png,commute
 compare_arrows.png,compare arrows
 compare.png,compare
-compass_calibration.png,compass calibration
-compost.png,compost
 compress.png,compress
 computer.png,computer
-confirmation_number.png,confirmation number
 connected_tv.png,connected tv
 connecting_airports.png,connecting airports
-connect_without_contact.png,connect without contact
-construction.png,construction
 contact_emergency.png,contact emergency
-contactless.png,contactless
 contact_mail.png,contact mail
-contact_page.png,contact page
-contact_phone.png,contact phone
-contacts.png,contacts
 contact_support.png,contact support
 content_copy.png,content copy
 content_cut.png,content cut
@@ -453,24 +310,17 @@ content_paste_off.png,content paste off
 content_paste.png,content paste
 content_paste_search.png,content paste search
 contrast.png,contrast
-control_camera.png,control camera
-control_point_duplicate.png,control point duplicate
 control_point.png,control point
-cookie.png,cookie
-co_present.png,co present
 copy_all.png,copy all
 copyright.png,copyright
-coronavirus.png,coronavirus
 corporate_fare.png,corporate fare
 cottage.png,cottage
 countertops.png,countertops
 create_new_folder.png,create new folder
-create.png,create
 credit_card_off.png,credit card off
 credit_card.png,credit card
 credit_score.png,credit score
 crib.png,crib
-crisis_alert.png,crisis alert
 crop_16_9.png,crop 16 9
 crop_3_2.png,crop 3 2
 crop_5_4.png,crop 5 4
@@ -481,15 +331,11 @@ crop_landscape.png,crop landscape
 crop_original.png,crop original
 crop.png,crop
 crop_portrait.png,crop portrait
-crop_rotate.png,crop rotate
 crop_square.png,crop square
-cruelty_free.png,cruelty free
 css.png,css
 currency_bitcoin.png,currency bitcoin
-currency_exchange.png,currency exchange
 currency_franc.png,currency franc
 currency_lira.png,currency lira
-currency_pound.png,currency pound
 currency_ruble.png,currency ruble
 currency_rupee.png,currency rupee
 currency_yen.png,currency yen
@@ -498,20 +344,14 @@ curtains_closed.png,curtains closed
 curtains.png,curtains
 cyclone.png,cyclone
 dangerous.png,dangerous
-dark_mode.png,dark mode
 dashboard_customize.png,dashboard customize
 dashboard.png,dashboard
 data_array.png,data array
 data_exploration.png,data exploration
 data_object.png,data object
-data_saver_off.png,data saver off
-data_saver_on.png,data saver on
 dataset_linked.png,dataset linked
 dataset.png,dataset
 data_thresholding.png,data thresholding
-data_usage.png,data usage
-date_range.png,date range
-deblur.png,deblur
 deck.png,deck
 dehaze.png,dehaze
 delete_forever.png,delete forever
@@ -522,10 +362,8 @@ delivery_dining.png,delivery dining
 density_large.png,density large
 density_medium.png,density medium
 density_small.png,density small
-departure_board.png,departure board
 description.png,description
 deselect.png,deselect
-design_services.png,design services
 desk.png,desk
 desktop_access_disabled.png,desktop access disabled
 desktop_mac.png,desktop mac
@@ -540,7 +378,6 @@ devices_other.png,devices other
 devices.png,devices
 device_thermostat.png,device thermostat
 device_unknown.png,device unknown
-dialer_sip.png,dialer sip
 dialpad.png,dialpad
 diamond.png,diamond
 difference.png,difference
@@ -548,220 +385,116 @@ dining.png,dining
 dinner_dining.png,dinner dining
 directions_bike.png,directions bike
 directions_boat_filled.png,directions boat filled
-directions_boat.png,directions boat
-directions_bus_filled.png,directions bus filled
-directions_bus.png,directions bus
-directions_car_filled.png,directions car filled
-directions_car.png,directions car
-directions_off.png,directions off
 directions.png,directions
-directions_railway_filled.png,directions railway filled
 directions_railway.png,directions railway
 directions_run.png,directions run
-directions_subway_filled.png,directions subway filled
-directions_subway.png,directions subway
-directions_transit_filled.png,directions transit filled
-directions_transit.png,directions transit
-directions_walk.png,directions walk
 dirty_lens.png,dirty lens
 disabled_by_default.png,disabled by default
-disabled_visible.png,disabled visible
 disc_full.png,disc full
-discount.png,discount
-display_settings.png,display settings
-diversity_1.png,diversity 1
 diversity_2.png,diversity 2
-diversity_3.png,diversity 3
 dns.png,dns
 dock.png,dock
 document_scanner.png,document scanner
 do_disturb_alt.png,do disturb alt
-do_disturb_off.png,do disturb off
 do_disturb_on.png,do disturb on
-do_disturb.png,do disturb
 domain_add.png,domain add
 domain_disabled.png,domain disabled
 domain.png,domain
-domain_verification.png,domain verification
 done_all.png,done all
 done_outline.png,done outline
 done.png,done
 do_not_disturb_alt.png,do not disturb alt
-do_not_disturb_off.png,do not disturb off
 do_not_disturb_on.png,do not disturb on
 do_not_disturb_on_total_silence.png,do not disturb on total silence
-do_not_disturb.png,do not disturb
-do_not_step.png,do not step
-do_not_touch.png,do not touch
-donut_large.png,donut large
 donut_small.png,donut small
 door_back.png,door back
 doorbell.png,doorbell
 door_front.png,door front
 door_sliding.png,door sliding
 double_arrow.png,double arrow
-downhill_skiing.png,downhill skiing
 download_done.png,download done
 download_for_offline.png,download for offline
-downloading.png,downloading
 download.png,download
 drafts.png,drafts
 drag_handle.png,drag handle
 drag_indicator.png,drag indicator
-draw.png,draw
-drive_eta.png,drive eta
 drive_file_move.png,drive file move
 drive_file_move_rtl.png,drive file move rtl
-drive_file_rename_outline.png,drive file rename outline
 drive_folder_upload.png,drive folder upload
 dry_cleaning.png,dry cleaning
-dry.png,dry
 duo.png,duo
 dvr.png,dvr
 dynamic_feed.png,dynamic feed
 dynamic_form.png,dynamic form
 earbuds_battery.png,earbuds battery
-earbuds.png,earbuds
 east.png,east
 edgesensor_high.png,edgesensor high
 edgesensor_low.png,edgesensor low
 edit_attributes.png,edit attributes
-edit_calendar.png,edit calendar
-edit_location_alt.png,edit location alt
-edit_location.png,edit location
-edit_note.png,edit note
-edit_notifications.png,edit notifications
-edit_off.png,edit off
-edit.png,edit
-edit_road.png,edit road
-egg_alt.png,egg alt
 egg.png,egg
 eject.png,eject
-elderly.png,elderly
-elderly_woman.png,elderly woman
 electrical_services.png,electrical services
-electric_bike.png,electric bike
-electric_bolt.png,electric bolt
-electric_car.png,electric car
-electric_meter.png,electric meter
 electric_moped.png,electric moped
-electric_rickshaw.png,electric rickshaw
-electric_scooter.png,electric scooter
-elevator.png,elevator
 email.png,email
-emergency.png,emergency
 emergency_recording.png,emergency recording
-emergency_share.png,emergency share
 e_mobiledata.png,e mobiledata
-emoji_emotions.png,emoji emotions
-emoji_events.png,emoji events
 emoji_food_beverage.png,emoji food beverage
-emoji_nature.png,emoji nature
-emoji_objects.png,emoji objects
-emoji_people.png,emoji people
-emoji_symbols.png,emoji symbols
 emoji_transportation.png,emoji transportation
-energy_savings_leaf.png,energy savings leaf
-engineering.png,engineering
 enhanced_encryption.png,enhanced encryption
 equalizer.png,equalizer
 error_outline.png,error outline
 error.png,error
 escalator.png,escalator
-escalator_warning.png,escalator warning
-euro.png,euro
-euro_symbol.png,euro symbol
 event_available.png,event available
 event_busy.png,event busy
 event_note.png,event note
-event.png,event
-event_repeat.png,event repeat
 event_seat.png,event seat
-ev_station.png,ev station
-exit_to_app.png,exit to app
 expand_circle_down.png,expand circle down
 expand_less.png,expand less
 expand_more.png,expand more
 expand.png,expand
 explicit.png,explicit
-explore_off.png,explore off
 explore.png,explore
 exposure_neg_1.png,exposure neg 1
-exposure_neg_2.png,exposure neg 2
 exposure_plus_1.png,exposure plus 1
-exposure_plus_2.png,exposure plus 2
 exposure.png,exposure
 exposure_zero.png,exposure zero
-extension_off.png,extension off
-extension.png,extension
-face_2.png,face 2
-face_3.png,face 3
-face_4.png,face 4
-face_5.png,face 5
-face_6.png,face 6
-face.png,face
-face_retouching_natural.png,face retouching natural
-face_retouching_off.png,face retouching off
 fact_check.png,fact check
 factory.png,factory
-family_restroom.png,family restroom
 fastfood.png,fastfood
 fast_forward.png,fast forward
 fast_rewind.png,fast rewind
 favorite_border.png,favorite border
 favorite.png,favorite
-fax.png,fax
 featured_play_list.png,featured play list
 featured_video.png,featured video
 feedback.png,feedback
 feed.png,feed
 female.png,female
 fence.png,fence
-festival.png,festival
 fiber_dvr.png,fiber dvr
 fiber_manual_record.png,fiber manual record
 fiber_new.png,fiber new
 fiber_pin.png,fiber pin
-fiber_smart_record.png,fiber smart record
 file_copy.png,file copy
 file_download_done.png,file download done
 file_download_off.png,file download off
 file_download.png,file download
 file_open.png,file open
-file_present.png,file present
 file_upload.png,file upload
 filter_1.png,filter 1
-filter_2.png,filter 2
-filter_3.png,filter 3
 filter_4.png,filter 4
-filter_5.png,filter 5
-filter_6.png,filter 6
 filter_7.png,filter 7
-filter_8.png,filter 8
-filter_9_plus.png,filter 9 plus
-filter_9.png,filter 9
-filter_alt_off.png,filter alt off
-filter_alt.png,filter alt
 filter_b_and_w.png,filter b and w
 filter_center_focus.png,filter center focus
-filter_drama.png,filter drama
 filter_frames.png,filter frames
 filter_hdr.png,filter hdr
 filter_list_off.png,filter list off
 filter_list.png,filter list
 filter_none.png,filter none
 filter.png,filter
-filter_tilt_shift.png,filter tilt shift
-filter_vintage.png,filter vintage
-find_in_page.png,find in page
-find_replace.png,find replace
-fingerprint.png,fingerprint
 fire_extinguisher.png,fire extinguisher
-fire_hydrant_alt.png,fire hydrant alt
-fireplace.png,fireplace
-fire_truck.png,fire truck
 first_page.png,first page
-fitbit.png,fitbit
 fitness_center.png,fitness center
 fit_screen.png,fit screen
 flag_circle.png,flag circle
@@ -770,7 +503,6 @@ flaky.png,flaky
 flare.png,flare
 flash_auto.png,flash auto
 flashlight_off.png,flashlight off
-flashlight_on.png,flashlight on
 flash_off.png,flash off
 flash_on.png,flash on
 flatware.png,flatware
@@ -781,11 +513,8 @@ flight_takeoff.png,flight takeoff
 flip_camera_android.png,flip camera android
 flip_camera_ios.png,flip camera ios
 flip.png,flip
-flip_to_back.png,flip to back
-flip_to_front.png,flip to front
 flood.png,flood
 fluorescent.png,fluorescent
-flutter_dash.png,flutter dash
 fmd_bad.png,fmd bad
 fmd_good.png,fmd good
 folder_copy.png,folder copy
@@ -809,7 +538,6 @@ format_align_left.png,format align left
 format_align_right.png,format align right
 format_bold.png,format bold
 format_clear.png,format clear
-format_color_fill.png,format color fill
 format_color_reset.png,format color reset
 format_color_text.png,format color text
 format_indent_decrease.png,format indent decrease
@@ -831,20 +559,15 @@ format_underlined.png,format underlined
 fort.png,fort
 forum.png,forum
 forward_10.png,forward 10
-forward_30.png,forward 30
 forward_5.png,forward 5
 forward.png,forward
 forward_to_inbox.png,forward to inbox
 foundation.png,foundation
-free_breakfast.png,free breakfast
-free_cancellation.png,free cancellation
-front_hand.png,front hand
 fullscreen_exit.png,fullscreen exit
 fullscreen.png,fullscreen
 functions.png,functions
 gamepad.png,gamepad
 games.png,games
-garage.png,garage
 gas_meter.png,gas meter
 gavel.png,gavel
 generating_tokens.png,generating tokens
@@ -852,22 +575,16 @@ gesture.png,gesture
 get_app.png,get app
 gif_box.png,gif box
 gif.png,gif
-girl.png,girl
 gite.png,gite
 g_mobiledata.png,g mobiledata
-golf_course.png,golf course
 gpp_bad.png,gpp bad
 gpp_good.png,gpp good
 gpp_maybe.png,gpp maybe
-gps_fixed.png,gps fixed
-gps_not_fixed.png,gps not fixed
-gps_off.png,gps off
 grade.png,grade
 gradient.png,gradient
 grading.png,grading
 grain.png,grain
 graphic_eq.png,graphic eq
-grass.png,grass
 grid_3x3.png,grid 3x3
 grid_4x4.png,grid 4x4
 grid_goldenratio.png,grid goldenratio
@@ -875,19 +592,11 @@ grid_off.png,grid off
 grid_on.png,grid on
 grid_view.png,grid view
 group_add.png,group add
-group_off.png,group off
 group.png,group
-group_remove.png,group remove
-groups_2.png,groups 2
-groups_3.png,groups 3
-groups.png,groups
-group_work.png,group work
+group_remove.png,group remove.png
 g_translate.png,g translate
 hail.png,hail
-handshake.png,handshake
-handyman.png,handyman
 hardware.png,hardware
-hd.png,hd
 hdr_auto.png,hdr auto
 hdr_auto_select.png,hdr auto select
 hdr_enhanced_select.png,hdr enhanced select
@@ -899,14 +608,7 @@ hdr_plus.png,hdr plus
 hdr_strong.png,hdr strong
 hdr_weak.png,hdr weak
 headphones_battery.png,headphones battery
-headphones.png,headphones
-headset_mic.png,headset mic
-headset_off.png,headset off
-headset.png,headset
-healing.png,healing
 health_and_safety.png,health and safety
-hearing_disabled.png,hearing disabled
-hearing.png,hearing
 heart_broken.png,heart broken
 heat_pump.png,heat pump
 height.png,height
@@ -916,15 +618,9 @@ help.png,help
 hevc.png,hevc
 hexagon.png,hexagon
 hide_image.png,hide image
-hide_source.png,hide source
 highlight_alt.png,highlight alt
 highlight_off.png,highlight off
 highlight.png,highlight
-high_quality.png,high quality
-hiking.png,hiking
-history_edu.png,history edu
-history.png,history
-history_toggle_off.png,history toggle off
 hive.png,hive
 hls_off.png,hls off
 hls.png,hls
@@ -940,7 +636,6 @@ horizontal_rule.png,horizontal rule
 horizontal_split.png,horizontal split
 hotel_class.png,hotel class
 hotel.png,hotel
-hot_tub.png,hot tub
 hourglass_bottom.png,hourglass bottom
 hourglass_disabled.png,hourglass disabled
 hourglass_empty.png,hourglass empty
@@ -949,53 +644,749 @@ hourglass_top.png,hourglass top
 houseboat.png,houseboat
 house.png,house
 house_siding.png,house siding
-how_to_reg.png,how to reg
-how_to_vote.png,how to vote
 h_plus_mobiledata.png,h plus mobiledata
 html.png,html
 http.png,http
 https.png,https
-hub.png,hub
 hvac.png,hvac
-icecream.png,icecream
-ice_skating.png,ice skating
 image_aspect_ratio.png,image aspect ratio
 image_not_supported.png,image not supported
 image.png,image
-image_search.png,image search
 imagesearch_roller.png,imagesearch roller
-important_devices.png,important devices
 import_contacts.png,import contacts
 import_export.png,import export
-inbox.png,inbox
 incomplete_circle.png,incomplete circle
 indeterminate_check_box.png,indeterminate check box
 info.png,info
-input.png,input
 insert_chart_outlined.png,insert chart outlined
 insert_chart.png,insert chart
 insert_comment.png,insert comment
 insert_drive_file.png,insert drive file
 insert_emoticon.png,insert emoticon
-insert_invitation.png,insert invitation
 insert_link.png,insert link
 insert_page_break.png,insert page break
 insert_photo.png,insert photo
 insights.png,insights
-install_desktop.png,install desktop
 install_mobile.png,install mobile
-integration_instructions.png,integration instructions
 interests.png,interests
-interpreter_mode.png,interpreter mode
 inventory_2.png,inventory 2
 inventory.png,inventory
-invert_colors_off.png,invert colors off
 invert_colors.png,invert colors
-ios_share.png,ios share
 iron.png,iron
 iso.png,iso
 javascript.png,javascript
-join_full.png,join full
-join_inner.png,join inner
-join_left.png,join left
-join_right.png,join right
+kayaking.png,kayaking
+keyboard_alt.png,keyboard alt
+keyboard_arrow_down.png,keyboard arrow down
+keyboard_arrow_left.png,keyboard arrow left
+keyboard_arrow_right.png,keyboard arrow right
+keyboard_arrow_up.png,keyboard arrow up
+keyboard_backspace.png,keyboard backspace
+keyboard_capslock.png,keyboard capslock
+keyboard_command_key.png,keyboard command key
+keyboard_control_key.png,keyboard control key
+keyboard_double_arrow_down.png,keyboard double arrow down
+keyboard_double_arrow_left.png,keyboard double arrow left
+keyboard_double_arrow_right.png,keyboard double arrow right
+keyboard_double_arrow_up.png,keyboard double arrow up
+keyboard_hide.png,keyboard hide
+keyboard_option_key.png,keyboard option key
+keyboard.png,keyboard
+keyboard_return.png,keyboard return
+keyboard_tab.png,keyboard tab
+keyboard_voice.png,keyboard voice
+king_bed.png,king bed
+label_important.png,label important
+label_off.png,label off
+label.png,label
+landscape.png,landscape
+landslide.png,landslide
+lan.png,lan
+laptop_chromebook.png,laptop chromebook
+laptop_mac.png,laptop mac
+laptop.png,laptop
+laptop_windows.png,laptop windows
+last_page.png,last page
+layers_clear.png,layers clear
+layers.png,layers
+leaderboard.png,leaderboard
+legend_toggle.png,legend toggle
+lens_blur.png,lens blur
+lens.png,lens
+library_add_check.png,library add check
+library_add.png,library add
+library_books.png,library books
+light.png,light
+line_axis.png,line axis
+line_style.png,line style
+line_weight.png,line weight
+link.png,link
+list_alt.png,list alt
+list.png,list
+live_tv.png,live tv
+local_activity.png,local activity
+local_airport.png,local airport
+local_atm.png,local atm
+local_bar.png,local bar
+local_cafe.png,local cafe
+local_convenience_store.png,local convenience store
+local_drink.png,local drink
+local_hospital.png,local hospital
+local_hotel.png,local hotel
+local_mall.png,local mall
+local_movies.png,local movies
+local_parking.png,local parking
+local_pharmacy.png,local pharmacy
+local_pizza.png,local pizza
+local_play.png,local play
+local_police.png,local police
+local_post_office.png,local post office
+local_see.png,local see
+local_shipping.png,local shipping
+location_city.png,location city
+lock_clock.png,lock clock
+lock_open.png,lock open
+lock_person.png,lock person
+lock.png,lock
+login.png,login
+logout.png,logout
+looks_4.png,looks 4
+looks_one.png,looks one
+looks.png,looks
+loupe.png,loupe
+low_priority.png,low priority
+lte_mobiledata.png,lte mobiledata
+lte_plus_mobiledata.png,lte plus mobiledata
+luggage.png,luggage
+lunch_dining.png,lunch dining
+mail_lock.png,mail lock
+mail_outline.png,mail outline
+mail.png,mail
+male.png,male
+man_3.png,man 3
+manage_accounts.png,manage accounts
+manage_search.png,manage search
+map.png,map
+maps_home_work.png,maps home work
+margin.png,margin
+mark_as_unread.png,mark as unread
+mark_chat_read.png,mark chat read
+mark_chat_unread.png,mark chat unread
+mark_email_read.png,mark email read
+mark_email_unread.png,mark email unread
+markunread_mailbox.png,markunread mailbox
+markunread.png,markunread
+maximize.png,maximize
+media_bluetooth_off.png,media bluetooth off
+medical_information.png,medical information
+medical_services.png,medical services
+medication_liquid.png,medication liquid
+medication.png,medication
+meeting_room.png,meeting room
+memory.png,memory
+menu_book.png,menu book
+menu_open.png,menu open
+menu.png,menu
+merge.png,merge
+merge_type.png,merge type
+message.png,message
+metadata.csv,metadata
+mic_external_off.png,mic external off
+mic_external_on.png,mic external on
+mic_none.png,mic none
+mic.png,mic
+microwave.png,microwave
+military_tech.png,military tech
+minimize.png,minimize
+minor_crash.png,minor crash
+missed_video_call.png,missed video call
+mms.png,mms
+mobiledata_off.png,mobiledata off
+mobile_friendly.png,mobile friendly
+mobile_off.png,mobile off
+mobile_screen_share.png,mobile screen share
+mode_comment.png,mode comment
+mode_night.png,mode night
+mode_standby.png,mode standby
+monetization_on.png,monetization on
+money_off_csred.png,money off csred
+money_off.png,money off
+money.png,money
+monitor.png,monitor
+monitor_weight.png,monitor weight
+monochrome_photos.png,monochrome photos
+mood_bad.png,mood bad
+mood.png,mood
+moped.png,moped
+more_horiz.png,more horiz
+more_vert.png,more vert
+motion_photos_auto.png,motion photos auto
+motion_photos_on.png,motion photos on
+motion_photos_paused.png,motion photos paused
+motion_photos_pause.png,motion photos pause
+move_to_inbox.png,move to inbox
+movie_creation.png,movie creation
+movie_filter.png,movie filter
+movie.png,movie
+mp.png,mp
+multiline_chart.png,multiline chart
+multiple_stop.png,multiple stop
+museum.png,museum
+nat.png,nat
+navigate_before.png,navigate before
+navigate_next.png,navigate next
+navigation.png,navigation
+nearby_error.png,nearby error
+nearby_off.png,nearby off
+near_me_disabled.png,near me disabled
+near_me.png,near me
+network_cell.png,network cell
+new_label.png,new label
+new_releases.png,new releases
+newspaper.png,newspaper
+next_plan.png,next plan
+next_week.png,next week
+nfc.png,nfc
+nightlight_round.png,nightlight round
+no_backpack.png,no backpack
+no_cell.png,no cell
+no_crash.png,no crash
+no_drinks.png,no drinks
+no_encryption_gmailerrorred.png,no encryption gmailerrorred
+no_encryption.png,no encryption
+no_food.png,no food
+no_luggage.png,no luggage
+no_meals.png,no meals
+no_meeting_room.png,no meeting room
+no_photography.png,no photography
+north_east.png,north east
+north.png,north
+north_west.png,north west
+no_sim.png,no sim
+note_add.png,note add
+note_alt.png,note alt
+note.png,note
+notes.png,notes
+notification_important.png,notification important
+notifications_none.png,notifications none
+notifications_off.png,notifications off
+notifications_paused.png,notifications paused
+notifications.png,notifications
+no_transfer.png,no transfer
+not_started.png,not started
+numbers.png,numbers
+offline_bolt.png,offline bolt
+offline_pin.png,offline pin
+offline_share.png,offline share
+oil_barrel.png,oil barrel
+ondemand_video.png,ondemand video
+on_device_training.png,on device training
+open_in_full.png,open in full
+open_with.png,open with
+other_houses.png,other houses
+outbound.png,outbound
+outbox.png,outbox
+outlet.png,outlet
+outlined_flag.png,outlined flag
+padding.png,padding
+pages.png,pages
+paid.png,paid
+panorama_fish_eye.png,panorama fish eye
+panorama.png,panorama
+panorama_wide_angle.png,panorama wide angle
+panorama_wide_angle_select.png,panorama wide angle select
+park.png,park
+password.png,password
+pause_circle_filled.png,pause circle filled
+pause_circle_outline.png,pause circle outline
+pause_circle.png,pause circle
+pause.png,pause
+pause_presentation.png,pause presentation
+payment.png,payment
+payments.png,payments
+pentagon.png,pentagon
+people_outline.png,people outline
+people.png,people
+percent.png,percent
+perm_camera_mic.png,perm camera mic
+perm_device_information.png,perm device information
+perm_identity.png,perm identity
+perm_media.png,perm media
+perm_scan_wifi.png,perm scan wifi
+person_add_alt_1.png,person add alt 1
+person_add.png,person add
+person_pin_circle.png,person pin circle
+person.png,person
+person_remove_alt_1.png,person remove alt 1
+person_remove.png,person remove
+person_search.png,person search
+pest_control.png,pest control
+phishing.png,phishing
+phone_android.png,phone android
+phone_enabled.png,phone enabled
+phonelink_erase.png,phonelink erase
+phonelink_lock.png,phonelink lock
+phonelink_off.png,phonelink off
+phonelink.png,phonelink
+phonelink_ring.png,phonelink ring
+phone_locked.png,phone locked
+phone_missed.png,phone missed
+photo_album.png,photo album
+photo_camera_back.png,photo camera back
+photo_camera.png,photo camera
+photo_filter.png,photo filter
+photo_library.png,photo library
+photo.png,photo
+photo_size_select_actual.png,photo size select actual
+photo_size_select_large.png,photo size select large
+photo_size_select_small.png,photo size select small
+php.png,php
+piano_off.png,piano off
+piano.png,piano
+picture_as_pdf.png,picture as pdf
+picture_in_picture_alt.png,picture in picture alt
+picture_in_picture.png,picture in picture
+pin_end.png,pin end
+pin_invoke.png,pin invoke
+pin.png,pin
+pivot_table_chart.png,pivot table chart
+place.png,place
+play_arrow.png,play arrow
+play_circle_filled.png,play circle filled
+play_circle_outline.png,play circle outline
+play_circle.png,play circle
+play_disabled.png,play disabled
+play_for_work.png,play for work
+play_lesson.png,play lesson
+playlist_add_check_circle.png,playlist add check circle
+playlist_add_check.png,playlist add check
+playlist_add_circle.png,playlist add circle
+playlist_add.png,playlist add
+playlist_play.png,playlist play
+playlist_remove.png,playlist remove
+plus_one.png,plus one
+poll.png,poll
+polyline.png,polyline
+polymer.png,polymer
+post_add.png,post add
+power_input.png,power input
+power_off.png,power off
+power.png,power
+present_to_all.png,present to all
+price_change.png,price change
+price_check.png,price check
+privacy_tip.png,privacy tip
+production_quantity_limits.png,production quantity limits
+propane.png,propane
+propane_tank.png,propane tank
+public.png,public
+publish.png,publish
+punch_clock.png,punch clock
+push_pin.png,push pin
+qr_code_2.png,qr code 2
+qr_code.png,qr code
+qr_code_scanner.png,qr code scanner
+query_builder.png,query builder
+question_answer.png,question answer
+question_mark.png,question mark
+queue_music.png,queue music
+queue.png,queue
+quickreply.png,quickreply
+quiz.png,quiz
+radio_button_unchecked.png,radio button unchecked
+ramen_dining.png,ramen dining
+ramp_left.png,ramp left
+ramp_right.png,ramp right
+rate_review.png,rate review
+raw_off.png,raw off
+raw_on.png,raw on
+read_more.png,read more
+real_estate_agent.png,real estate agent
+receipt_long.png,receipt long
+receipt.png,receipt
+recommend.png,recommend
+record_voice_over.png,record voice over
+rectangle.png,rectangle
+remember_me.png,remember me
+remove_circle_outline.png,remove circle outline
+remove_circle.png,remove circle
+remove_done.png,remove done
+remove_moderator.png,remove moderator
+remove.png,remove
+remove_road.png,remove road
+reorder.png,reorder
+repartition.png,repartition
+repeat_one_on.png,repeat one on
+repeat_one.png,repeat one
+repeat_on.png,repeat on
+repeat.png,repeat
+replay_10.png,replay 10
+replay_circle_filled.png,replay circle filled
+replay.png,replay
+reply_all.png,reply all
+reply.png,reply
+report_problem.png,report problem
+request_page.png,request page
+request_quote.png,request quote
+reset_tv.png,reset tv
+restaurant.png,restaurant
+restore_from_trash.png,restore from trash
+reviews.png,reviews
+rice_bowl.png,rice bowl
+r_mobiledata.png,r mobiledata
+rocket.png,rocket
+roller_shades_closed.png,roller shades closed
+roofing.png,roofing
+room_preferences.png,room preferences
+rotate_left.png,rotate left
+rounded_corner.png,rounded corner
+router.png,router
+rowing.png,rowing
+rsvp.png,rsvp
+rtt.png,rtt
+rule_folder.png,rule folder
+rule.png,rule
+rv_hookup.png,rv hookup
+safety_check.png,safety check
+satellite.png,satellite
+save_alt.png,save alt
+scale.png,scale
+scanner.png,scanner
+scatter_plot.png,scatter plot
+schedule.png,schedule
+schedule_send.png,schedule send
+schema.png,schema
+school.png,school
+science.png,science
+scoreboard.png,scoreboard
+score.png,score
+screen_rotation_alt.png,screen rotation alt
+screen_search_desktop.png,screen search desktop
+screenshot.png,screenshot
+scuba_diving.png,scuba diving
+sd_card_alert.png,sd card alert
+sd_card.png,sd card
+sd_storage.png,sd storage
+security.png,security
+security_update_good.png,security update good
+security_update.png,security update
+security_update_warning.png,security update warning
+segment.png,segment
+select_all.png,select all
+send_and_archive.png,send and archive
+send.png,send
+send_to_mobile.png,send to mobile
+sensor_door.png,sensor door
+sensor_window.png,sensor window
+sentiment_very_dissatisfied.png,sentiment very dissatisfied
+sentiment_very_satisfied.png,sentiment very satisfied
+set_meal.png,set meal
+settings_accessibility.png,settings accessibility
+settings_bluetooth.png,settings bluetooth
+settings_brightness.png,settings brightness
+settings_cell.png,settings cell
+settings_ethernet.png,settings ethernet
+settings_input_component.png,settings input component
+settings_input_composite.png,settings input composite
+settings_input_hdmi.png,settings input hdmi
+settings_input_svideo.png,settings input svideo
+settings_overscan.png,settings overscan
+settings_suggest.png,settings suggest
+settings_voice.png,settings voice
+severe_cold.png,severe cold
+shape_line.png,shape line
+share.png,share
+shield.png,shield
+shop_2.png,shop 2
+shopping_bag.png,shopping bag
+shopping_basket.png,shopping basket
+shopping_cart_checkout.png,shopping cart checkout
+shop.png,shop
+shop_two.png,shop two
+shortcut.png,shortcut
+short_text.png,short text
+show_chart.png,show chart
+shower.png,shower
+shuffle_on.png,shuffle on
+shuffle.png,shuffle
+signal_cellular_0_bar.png,signal cellular 0 bar
+signal_cellular_4_bar.png,signal cellular 4 bar
+signal_cellular_alt_1_bar.png,signal cellular alt 1 bar
+signal_cellular_alt_2_bar.png,signal cellular alt 2 bar
+signal_cellular_alt.png,signal cellular alt
+signal_cellular_connected_no_internet_0_bar.png,signal cellular connected no internet 0 bar
+signal_cellular_connected_no_internet_4_bar.png,signal cellular connected no internet 4 bar
+signal_cellular_nodata.png,signal cellular nodata
+signal_cellular_null.png,signal cellular null
+signal_cellular_off.png,signal cellular off
+signal_wifi_4_bar.png,signal wifi 4 bar
+signal_wifi_off.png,signal wifi off
+signal_wifi_statusbar_connected_no_internet_4.png,signal wifi statusbar connected no internet 4
+signpost.png,signpost
+sim_card_alert.png,sim card alert
+sim_card_download.png,sim card download
+sim_card.png,sim card
+single_bed.png,single bed
+sip.png,sip
+skip_next.png,skip next
+skip_previous.png,skip previous
+slideshow.png,slideshow
+smart_button.png,smart button
+smart_display.png,smart display
+smartphone.png,smartphone
+smart_screen.png,smart screen
+smart_toy.png,smart toy
+sms_failed.png,sms failed
+sms.png,sms
+snippet_folder.png,snippet folder
+solar_power.png,solar power
+sort_by_alpha.png,sort by alpha
+sort.png,sort
+sos.png,sos
+soup_kitchen.png,soup kitchen
+source.png,source
+south_east.png,south east
+south.png,south
+south_west.png,south west
+space_bar.png,space bar
+space_dashboard.png,space dashboard
+speaker_notes.png,speaker notes
+spellcheck.png,spellcheck
+splitscreen.png,splitscreen
+spoke.png,spoke
+sports_cricket.png,sports cricket
+sports_football.png,sports football
+sports_gymnastics.png,sports gymnastics
+sports_mma.png,sports mma
+sports_score.png,sports score
+square_foot.png,square foot
+square.png,square
+ssid_chart.png,ssid chart
+stacked_bar_chart.png,stacked bar chart
+stacked_line_chart.png,stacked line chart
+stadium.png,stadium
+stairs.png,stairs
+star_border.png,star border
+star_border_purple500.png,star border purple500
+star_half.png,star half
+star_outline.png,star outline
+star.png,star
+star_purple500.png,star purple500
+star_rate.png,star rate
+start.png,start
+stay_current_landscape.png,stay current landscape
+stay_current_portrait.png,stay current portrait
+stay_primary_landscape.png,stay primary landscape
+stay_primary_portrait.png,stay primary portrait
+sticky_note_2.png,sticky note 2
+stop_circle.png,stop circle
+stop.png,stop
+storage.png,storage.png
+store_mall_directory.png,store mall directory
+store.png,store
+straighten.png,straighten
+straight.png,straight
+subdirectory_arrow_left.png,subdirectory arrow left
+subdirectory_arrow_right.png,subdirectory arrow right
+subject.png,subject
+subscriptions.png,subscriptions
+subscript.png,subscript
+subtitles_off.png,subtitles off
+subtitles.png,subtitles
+summarize.png,summarize
+superscript.png,superscript
+swap_calls.png,swap calls
+swap_horizontal_circle.png,swap horizontal circle
+swap_horiz.png,swap horiz
+swap_vertical_circle.png,swap vertical circle
+swap_vert.png,swap vert
+switch_access_shortcut_add.png,switch access shortcut add
+switch_access_shortcut.png,switch access shortcut
+switch_camera.png,switch camera
+switch_left.png,switch left
+switch_right.png,switch right
+switch_video.png,switch video
+sync_alt.png,sync alt
+system_security_update_good.png,system security update good
+system_security_update.png,system security update
+system_security_update_warning.png,system security update warning
+system_update_alt.png,system update alt
+system_update.png,system update
+table_bar.png,table bar
+table_chart.png,table chart
+table_rows.png,table rows
+tablet_android.png,tablet android
+tablet.png,tablet
+table_view.png,table view
+tab.png,tab
+tab_unselected.png,tab unselected
+tag_faces.png,tag faces
+tag.png,tag
+takeout_dining.png,takeout dining
+task.png,task
+temple_buddhist.png,temple buddhist
+temple_hindu.png,temple hindu
+terrain.png,terrain
+text_decrease.png,text decrease
+text_fields.png,text fields
+text_format.png,text format
+text_increase.png,text increase
+text_rotate_up.png,text rotate up
+text_rotate_vertical.png,text rotate vertical
+text_rotation_angledown.png,text rotation angledown
+text_rotation_angleup.png,text rotation angleup
+text_rotation_down.png,text rotation down
+text_rotation_none.png,text rotation none
+textsms.png,textsms
+text_snippet.png,text snippet
+texture.png,texture
+theaters.png,theaters
+thermostat_auto.png,thermostat auto
+thermostat.png,thermostat
+thumb_down_alt.png,thumb down alt
+thumb_down_off_alt.png,thumb down off alt
+thumb_down.png,thumb down
+thumbs_up_down.png,thumbs up down
+thumb_up_alt.png,thumb up alt
+thumb_up_off_alt.png,thumb up off alt
+thumb_up.png,thumb up
+timer_10_select.png,timer 10 select
+tips_and_updates.png,tips and updates
+title.png,title
+toc.png,toc
+toggle_off.png,toggle off
+toggle_on.png,toggle on
+token.png,token
+tonality.png,tonality
+topic.png,topic
+tornado.png,tornado
+tour.png,tour
+traffic.png,traffic
+transfer_within_a_station.png,transfer within a station
+transform.png,transform
+transit_enterexit.png,transit enterexit
+trending_down.png,trending down
+trending_flat.png,trending flat
+trending_up.png,trending up
+trip_origin.png,trip origin
+try.png,try
+tune.png,tune
+tungsten.png,tungsten
+turned_in_not.png,turned in not
+turned_in.png,turned in
+turn_left.png,turn left
+turn_right.png,turn right
+turn_sharp_left.png,turn sharp left
+turn_sharp_right.png,turn sharp right
+turn_slight_left.png,turn slight left
+turn_slight_right.png,turn slight right
+tv_off.png,tv off
+tv.png,tv
+two_wheeler.png,two wheeler
+type_specimen.png,type specimen
+umbrella.png,umbrella
+unarchive.png,unarchive
+undo.png,undo
+unfold_less_double.png,unfold less double
+unfold_less.png,unfold less
+unfold_more_double.png,unfold more double
+unfold_more.png,unfold more
+unsubscribe.png,unsubscribe
+upcoming.png,upcoming
+upgrade.png,upgrade
+upload_file.png,upload file
+upload.png,upload
+usb_off.png,usb off
+u_turn_left.png,u turn left
+u_turn_right.png,u turn right
+vaccines.png,vaccines
+vape_free.png,vape free
+verified.png,verified
+verified_user.png,verified user
+vertical_align_bottom.png,vertical align bottom
+vertical_align_center.png,vertical align center
+vertical_align_top.png,vertical align top
+vertical_distribute.png,vertical distribute
+vertical_shades_closed.png,vertical shades closed
+vertical_shades.png,vertical shades
+vertical_split.png,vertical split
+vibration.png,vibration
+video_call.png,video call
+video_camera_back.png,video camera back
+videocam_off.png,videocam off
+videocam.png,videocam
+video_chat.png,video chat
+video_file.png,video file
+videogame_asset_off.png,videogame asset off
+video_label.png,video label
+video_library.png,video library
+video_stable.png,video stable
+view_agenda.png,view agenda
+view_array.png,view array
+view_carousel.png,view carousel
+view_column.png,view column
+view_comfy_alt.png,view comfy alt
+view_comfy.png,view comfy
+view_compact_alt.png,view compact alt
+view_compact.png,view compact
+view_cozy.png,view cozy
+view_day.png,view day
+view_headline.png,view headline
+view_in_ar.png,view in ar
+view_kanban.png,view kanban
+view_list.png,view list
+view_module.png,view module
+view_quilt.png,view quilt
+view_sidebar.png,view sidebar
+view_stream.png,view stream
+view_timeline.png,view timeline
+view_week.png,view week
+vignette.png,vignette
+villa.png,villa
+voice_chat.png,voice chat
+voicemail.png,voicemail
+volcano.png,volcano
+volume_mute.png,volume mute
+volunteer_activism.png,volunteer activism
+vpn_key.png,vpn key
+vrpano.png,vrpano
+wallet.png,wallet
+wallpaper.png,wallpaper
+warehouse.png,warehouse
+warning_amber.png,warning amber
+warning.png,warning
+watch_later.png,watch later
+watch.png,watch
+water_damage.png,water damage
+waterfall_chart.png,waterfall chart
+water.png,water
+waves.png,waves
+wb_auto.png,wb auto
+wb_incandescent.png,wb incandescent
+wb_iridescent.png,wb iridescent
+wb_shade.png,wb shade
+wb_sunny.png,wb sunny
+wb_twilight.png,wb twilight
+web.png,web
+web_stories.png,web stories
+weekend.png,weekend
+west.png,west
+wheelchair_pickup.png,wheelchair pickup
+where_to_vote.png,where to vote
+widgets.png,widgets
+width_full.png,width full
+width_normal.png,width normal
+width_wide.png,width wide
+wifi_1_bar.png,wifi 1 bar
+wifi_channel.png,wifi channel
+wifi_tethering.png,wifi tethering
+window.png,window
+wine_bar.png,wine bar
+work_history.png,work history
+work_off.png,work off
+work_outline.png,work outline
+work.png,work
+workspaces.png,workspaces
+wrap_text.png,wrap text
+zoom_in_map.png,zoom in map
+zoom_out_map.png,zoom out map
