@@ -54,9 +54,17 @@ icon-generator/
 
 ---
 
+## Resources
+
+- [svgLearner](https://github.com/etaisella/svgLearner/) (Etai Sella's experimentation with this method)
+- [HuggingFace Diffusers](https://github.com/huggingface/diffusers) (for LoRA training and inference)
+- [diffvg](https://github.com/BachiLi/diffvg) (for differentiable vector rasterization)
+- [SVGPathTools](https://github.com/mathandy/svgpathtools) (for SVG -> path conversion)
+- [PyTorch MS-SSIM](https://github.com/VainF/pytorch-msssim) (for SSIM loss)
+- [Material Design Icons](https://github.com/google/material-design-icons) (dataset)
+
 ## Acknowledgments
 
 We would like to acknowledge the contributions of:
 - **Etai Sella**
 - **Dr. Hadar Elor**
-
