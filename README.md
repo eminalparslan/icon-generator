@@ -44,8 +44,8 @@ GenSVG/
 
 1. Clone the repository and its submodules:
    ```
-   git clone --recurse-submodules https://github.com/yourusername/GenSVG.git
-   cd GenSVG
+   git clone --recurse-submodules https://github.com/eminalparslan/icon-generator.git
+   cd icon-generator
    ```
 
 2. Install dependencies:
