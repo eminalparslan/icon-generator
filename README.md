@@ -17,7 +17,7 @@
 ## Repository Structure
 
 ```plaintext
-GenSVG/
+icon-generator/
 ├── diffusers/             # Neural network tools for diffusion-based models.
 ├── diffvg/                # Tools for differentiable vector graphics.
 ├── inference/             # Scripts for training and inference with LoRA models.
