@@ -7,3 +7,6 @@
 [submodule "diffvg"]
 	path = diffvg
 	url = https://github.com/BachiLi/diffvg
+[submodule "ui-material-icons"]
+	path = ui-material-icons
+	url = https://huggingface.co/eminalp/ui-material-icons
